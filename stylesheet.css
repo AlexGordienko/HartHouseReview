@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Theano Didot Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Theano Didot Regular'), url('./fonts/TheanoDidot-Regular.woff') format('woff');
+    }
+
+body{
+    font-family: 'Theano Didot Regular';
+}
