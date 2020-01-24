@@ -13,4 +13,18 @@ body{
 
 @media only screen and (max-device-width: 480px) {
     html { font-size: 100%; }
+    .largerText {
+        font-size: 1em !important;
+        line-height: 3em !important;
+    }
+    .largerTextTitle {
+        font-size: 4em !important;
+    }
+}
+
+@media only screen and (max-device-width: 360px) {
+    html { font-size: 100%; }
+    .largerTextTitle {
+        font-size: 3em !important;
+    }
 }
