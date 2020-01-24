@@ -7,4 +7,10 @@
 
 body{
     font-family: 'Theano Didot Regular';
+
+
+}    
+
+@media only screen and (max-device-width: 480px) {
+    html { font-size: 100%; }
 }
